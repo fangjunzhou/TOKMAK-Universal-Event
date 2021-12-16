@@ -52,13 +52,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\TOKMAK-Universal-Event\Runtime\UniversalEventConfig.cs" />
-     <Compile Include="Assets\TOKMAK-Universal-Event\Runtime\UniversalEventManager.cs" />
-     <Compile Include="Assets\TOKMAK-Universal-Event\Runtime\IEventData.cs" />
-     <Compile Include="Assets\TOKMAK-Universal-Event\Runtime\GlobalEvent\GlobalEventSettings.cs" />
-     <Compile Include="Assets\TOKMAK-Universal-Event\Runtime\GlobalEvent\GlobalEventAttribute.cs" />
-     <Compile Include="Assets\TOKMAK-Universal-Event\Runtime\GlobalEvent\GlobalEventManager.cs" />
-     <None Include="Assets\TOKMAK-Universal-Event\Runtime\FinTOKMAK.EventSystem.Runtime.asmdef" />
+     <Compile Include="Assets\Package\Runtime\UniversalEventConfig.cs" />
+     <Compile Include="Assets\Package\Runtime\UniversalEventManager.cs" />
+     <Compile Include="Assets\Package\Runtime\IEventData.cs" />
+     <Compile Include="Assets\Package\Runtime\GlobalEvent\GlobalEventSettings.cs" />
+     <Compile Include="Assets\Package\Runtime\GlobalEvent\GlobalEventAttribute.cs" />
+     <Compile Include="Assets\Package\Runtime\GlobalEvent\GlobalEventManager.cs" />
+     <None Include="Assets\Package\Runtime\FinTOKMAK.EventSystem.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/Unity Editor/2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>

@@ -52,8 +52,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\TOKMAK-Universal-Event\Tests\Runtime\GlobalEventTest.cs" />
-     <None Include="Assets\TOKMAK-Universal-Event\Tests\Runtime\FinTOKMAK.EventSystem.Tests.Runtime.asmdef" />
+     <Compile Include="Assets\Package\Tests\Runtime\GlobalEventTest.cs" />
+     <None Include="Assets\Package\Tests\Runtime\FinTOKMAK.EventSystem.Tests.Runtime.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/Unity Editor/2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>

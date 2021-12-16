@@ -52,10 +52,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\TOKMAK-Universal-Event\Editor\GlobalEvent\GlobalEventDrawer.cs" />
-     <Compile Include="Assets\TOKMAK-Universal-Event\Editor\UniversalEventDrawer.cs" />
-     <Compile Include="Assets\TOKMAK-Universal-Event\Editor\UniversalEventConfigEditor.cs" />
-     <None Include="Assets\TOKMAK-Universal-Event\Editor\FinTOKMAK.EventSystem.Editor.asmdef" />
+     <Compile Include="Assets\Package\Editor\GlobalEvent\GlobalEventDrawer.cs" />
+     <Compile Include="Assets\Package\Editor\UniversalEventDrawer.cs" />
+     <Compile Include="Assets\Package\Editor\UniversalEventConfigEditor.cs" />
+     <None Include="Assets\Package\Editor\FinTOKMAK.EventSystem.Editor.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/Unity Editor/2020.3.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
