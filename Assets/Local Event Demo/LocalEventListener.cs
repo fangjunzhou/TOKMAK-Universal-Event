@@ -13,6 +13,9 @@ namespace DefaultNamespace
         [LocalEvent]
         public string targetEvent;
 
+        [LocalEvent]
+        public string specifiedEvent = "root/SUB_DIR_2/EVENT_1";
+
         #endregion
 
         private void Start()
