@@ -284,6 +284,12 @@
  <Reference Include="Newtonsoft.Json">
  <HintPath>D:/Unity Project/TOKMAK-Universal-Event/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Common">
+ <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
+ </Reference>
  <Reference Include="netstandard">
  <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
  </Reference>
@@ -682,6 +688,12 @@
  </Reference>
  <Reference Include="Unity.SysrootPackage.Editor">
  <HintPath>D:/Unity Project/TOKMAK-Universal-Event/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="SerializableDict.Runtime">
+ <HintPath>D:/Unity Project/TOKMAK-Universal-Event/Library/ScriptAssemblies/SerializableDict.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="SerializableDict.Editor">
+ <HintPath>D:/Unity Project/TOKMAK-Universal-Event/Library/ScriptAssemblies/SerializableDict.Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

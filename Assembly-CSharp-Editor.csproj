@@ -278,11 +278,17 @@
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
+ <Reference Include="UnityEditor.WebGL.Extensions">
+ <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Android.Extensions">
  <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions">
+ <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
@@ -307,6 +313,12 @@
  </Reference>
  <Reference Include="nunit.framework">
  <HintPath>D:/Unity Project/TOKMAK-Universal-Event/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Common">
+ <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>D:/Program Files/Unity Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -715,6 +727,12 @@
  </Reference>
  <Reference Include="Unity.SysrootPackage.Editor">
  <HintPath>D:/Unity Project/TOKMAK-Universal-Event/Library/ScriptAssemblies/Unity.SysrootPackage.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="SerializableDict.Runtime">
+ <HintPath>D:/Unity Project/TOKMAK-Universal-Event/Library/ScriptAssemblies/SerializableDict.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="SerializableDict.Editor">
+ <HintPath>D:/Unity Project/TOKMAK-Universal-Event/Library/ScriptAssemblies/SerializableDict.Editor.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
